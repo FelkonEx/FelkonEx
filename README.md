@@ -5,10 +5,10 @@ I'm Felkon
 
 I don't really use GitHub outside of some small projects, but who knows what happens in the future
 
-### You can find me on:
-* [Twitter](https://twitter.com/FelkonEx)
-* Discord: Felkon#9447
+### Where you can find me:
+* [On Twitter](https://twitter.com/FelkonEx)
+* On Discord: Felkon#9447
 * [On Youtube](https://www.youtube.com/channel/UCKIEMpmi0mxRDIognD3Ejng)
-* Or on [Twitch](twitch.tv/felkonEx)
+* [On Twitch](twitch.tv/felkonEx)
 
 If you like what i do, you can buy me a coffee here: https://ko-fi.com/felkon, but there's no reall need to since i work a cringe 9-5
