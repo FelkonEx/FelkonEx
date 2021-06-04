@@ -1,16 +1,14 @@
-### Hi there 👋
+### Ayo, what's good
+I'm Felkon
+- 👨‍💼 Professionally, I'm a Front-End dev (SalesForce (LWC) / AWS)
+- 👨‍💻 Recreationally, I'm a Full-Stack dev (React, C#, C++, HTML/CSS/JS, SQL)
 
-<!--
-**FelkonEx/FelkonEx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I don't really use GitHub outside of some small projects, but who knows what happens in the future
 
-Here are some ideas to get you started:
+### You can find me on:
+* [Twitter](https://twitter.com/FelkonEx)
+* Discord: Felkon#9447
+* And i used to make [Youtube](https://www.youtube.com/channel/UCKIEMpmi0mxRDIognD3Ejng) videos
+* & stream on [Twitch](twitch.tv/felkonEx)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If you like what i do, you can buy me a coffee here: https://ko-fi.com/felkon, but there's no reall need to since i work a cringe 9-5
