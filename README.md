@@ -8,7 +8,7 @@ I don't really use GitHub outside of some small projects, but who knows what hap
 ### You can find me on:
 * [Twitter](https://twitter.com/FelkonEx)
 * Discord: Felkon#9447
-* And i used to make [Youtube](https://www.youtube.com/channel/UCKIEMpmi0mxRDIognD3Ejng) videos
-* & stream on [Twitch](twitch.tv/felkonEx)
+* [On Youtube](https://www.youtube.com/channel/UCKIEMpmi0mxRDIognD3Ejng)
+* Or on [Twitch](twitch.tv/felkonEx)
 
 If you like what i do, you can buy me a coffee here: https://ko-fi.com/felkon, but there's no reall need to since i work a cringe 9-5
