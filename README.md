@@ -11,4 +11,6 @@ I don't really use GitHub outside of some small projects, but who knows what hap
 * [On Youtube](https://www.youtube.com/channel/UCKIEMpmi0mxRDIognD3Ejng)
 * [On Twitch](twitch.tv/felkonEx)
 
-If you like what i do, you can buy me a coffee here: https://ko-fi.com/felkon, but there's no reall need to since i work a cringe 9-5
+If there's issues with my code, submit an issue on the repo instead of messaging me on any of the above.
+
+If you like what i do, you can buy me a coffee here: https://ko-fi.com/felkon, but there's no real need to since i work a cringe 9-5
