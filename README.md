@@ -9,7 +9,7 @@ I don't really use GitHub outside of some small projects, but who knows what hap
 * [On Twitter](https://twitter.com/FelkonEx)
 * On Discord: Felkon#9447
 * [On Youtube](https://www.youtube.com/channel/UCKIEMpmi0mxRDIognD3Ejng)
-* [On Twitch](twitch.tv/felkonEx)
+* [On Twitch](https://www.twitch.tv/felkonEx)
 
 If there's issues with my code, submit an issue on the repo instead of messaging me on any of the above.
 
