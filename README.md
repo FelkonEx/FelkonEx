@@ -3,7 +3,7 @@ I'm Felkon
 - 👨‍💼 Professionally, I'm a Front-End dev (SalesForce (LWC) / AWS)
 - 👨‍💻 Recreationally, I'm a Full-Stack dev (React, C#, C++, HTML/CSS/JS, SQL)
 
-I primarily tinker around some repos doing whatever i want to really.
+I primarily tinker around some repos doing whatever i want to really. Whether it be fixing up issues, adding features to things, and anything inbetween.
 
 ### Where you can find me:
 * [On Twitter](https://twitter.com/FelkonEx)
