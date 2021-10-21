@@ -6,10 +6,11 @@ I'm Felkon
 I primarily tinker around some repos doing whatever i want to really. Whether it be fixing up issues, adding features to things, and anything inbetween.
 
 ### Where you can find me:
-* [On Twitter](https://twitter.com/FelkonEx)
-* On Discord: Felkon#9447 or join [My Server](https://discord.com/invite/YWKpph8b3J) 😎
+* [On Twitch](https://www.twitch.tv/FelkonEx) (I stream about once or twice a week)
 * [On Youtube](https://www.youtube.com/channel/UCKIEMpmi0mxRDIognD3Ejng)
-* [On Twitch](https://www.twitch.tv/FelkonEx)
+* On Discord: Felkon#9447 or join [My Server](https://discord.com/invite/YWKpph8b3J) 😎
+* [On Twitter](https://twitter.com/FelkonEx)
+
 
 If there's issues with my code, submit an issue on the repo instead of messaging me on any of the above.
 
