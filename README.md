@@ -8,7 +8,7 @@ I primarily tinker around some repos doing whatever i want to really. Whether it
 ### Where you can find me:
 * [On Twitch](https://www.twitch.tv/FelkonEx) (I stream about once or twice a week)
 * [On Youtube](https://www.youtube.com/channel/UCKIEMpmi0mxRDIognD3Ejng)
-* On Discord: Felkon#9447 or join [My Server](https://discord.com/invite/YWKpph8b3J) 😎
+* On Discord: Felkon#9447 or join [My Server (primarily used for twitch)](https://discord.com/invite/YWKpph8b3J) 😎
 * [On Twitter](https://twitter.com/FelkonEx)
 
 
